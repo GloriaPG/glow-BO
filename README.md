@@ -1,2 +1,2 @@
 # glow-BO
-This it's backoofice for anywhere app , made in Grails. So, it's all.
+This it's backoffice for anywhere app , made in Grails. So, it's all.
